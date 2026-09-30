@@ -1,2 +1,2 @@
 # Painel-Equipes-Cardozo
-Painel referente a todos os colaboradores Cardozo
+Painel Gestão Equipe - Cardozo
